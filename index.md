@@ -5,7 +5,7 @@
 ### Embedded Systems
 
 [MiniTrace: A Contact Tracing System to Slow the Spread of Disease](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Inductive Charging for Medication Adherence Tracking System](/pdf/sample_presentation.pdf)
