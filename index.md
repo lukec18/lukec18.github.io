@@ -4,24 +4,28 @@
 
 ### Embedded Systems
 
-[Project 1 Title](/sample_page)
-<! -- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+[MiniTrace: A Contact Tracing System to Slow the Spread of Disease](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<! -- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+[Inductive Charging for Medication Adherence Tracking System](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<! -- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+[Human Mirroring Robotic Arm](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Dolphin Enrichment System](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Robotics and Simulation
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [ChessBot: A Simulated Robotic Chess Engine]
+- [Real Time 2D Simultaneous Localization and Mapping]
+- [Simulated Extended Kalman Filter SLAM]
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
