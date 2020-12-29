@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Human Mirroring Robotic Arm](http://example.com/)
+[<b>Human Mirroring Robotic Arm</b>](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <br>
 [EMG Presentation](/pdf/Presentation_HumanMirroringRoboticArm.pdf)
