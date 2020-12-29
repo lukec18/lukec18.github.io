@@ -13,7 +13,7 @@
 
 ---
 [<b>Human Mirroring Robotic Arm</b>](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/HumanMirroringRoboticArm/HCInteraction.JPG?raw=true"/>
 <br>
 [<i>EMG Presentation</i>](/pdf/Presentation_HumanMirroringRoboticArm.pdf)
 <br>
@@ -39,5 +39,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
