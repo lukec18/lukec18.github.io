@@ -62,6 +62,9 @@ src="https://youtube.com/embed/A8CCiv3MewY">
 ---
 <b>Simulated Extended Kalman Filter SLAM</b>
 <br>
+[<i>EKF SLAM Report</i>](/pdf/Report_EKFSLAM.pdf)
+<br>
+[<i>EKF SLAM Poster</i>](/pdf/Poster_EKFSLAM.pdf)
 
 ---
 <b>RANSAC Image Stitching</b>
