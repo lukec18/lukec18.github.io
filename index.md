@@ -4,8 +4,13 @@
 
 ### Embedded Systems
 
-[<b>MiniTrace: A Contact Tracing System to Slow the Spread of Disease</b>](/sample_page)
+[<b>MiniTrace: A Contact Tracing System to Slow the Spread of Disease</b>](https://cse.engin.umich.edu/eecs-473-advanced-embedded-systems-group-d/)
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>
+[<i>MiniTrace Presentation</i>](/pdf/Presentation_MiniTrace.pdf)
+<br>
+[<i>MiniTrace Final Report</i>](/pdf/Poster_Minitrace.pdf)
 
 ---
 [<b>Inductive Charging for Medication Adherence Tracking System</b>](/pdf/sample_presentation.pdf)
