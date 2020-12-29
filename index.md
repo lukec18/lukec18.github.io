@@ -14,7 +14,12 @@
 
 ---
 [<b>Inductive Charging for Medication Adherence Tracking System</b>](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>
+<img src="images/EyeDropper/EyeDropperBottle.jpg?raw=true"/>
+<br>
+[<i>EyeDropper Presentation</i>](/pdf/Presentation_EyeDropper.pdf)
+<br>
+[<i>EyeDropper Final Report</i>](/pdf/Report_EyeDropper.pdf)
 
 ---
 [<b>Human Mirroring Robotic Arm</b>](http://example.com/)
