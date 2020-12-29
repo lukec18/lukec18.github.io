@@ -15,7 +15,7 @@
 ---
 [<b>Inductive Charging for Medication Adherence Tracking System</b>](/pdf/sample_presentation.pdf)
 <br>
-<img src="images/EyeDropper/EyeDropperBottle.jpg?raw=true"/>
+<img src="images/EyeDropper/EyeDropperBottle.jpg?raw=true" style="width:500px;height:600px;">
 <br>
 [<i>EyeDropper Presentation</i>](/pdf/Presentation_EyeDropper.pdf)
 <br>
