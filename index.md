@@ -10,7 +10,7 @@
 <br>
 [<i>MiniTrace Presentation</i>](/pdf/Presentation_MiniTrace.pdf)
 <br>
-[<i>MiniTrace Final Report</i>](/pdf/Poster_Minitrace.pdf)
+[<i>MiniTrace Final Report</i>](/pdf/Report_MiniTrace.pdf)
 
 ---
 [<b>Inductive Charging for Medication Adherence Tracking System</b>](/pdf/sample_presentation.pdf)
