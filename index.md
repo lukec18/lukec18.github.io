@@ -6,7 +6,10 @@
 
 <b>MiniTrace: A Contact Tracing System to Slow the Spread of Disease</b>
 <br>
-<img src="images/MiniTrace/MiniTrace Diagram.png?raw=true"/>
+<iframe width="420" height="315"
+src="https://youtube.com/embed/rDnrx0CwW2o">
+</iframe>
+<br>
 [<i>MiniTrace Website</i>](https://cse.engin.umich.edu/eecs-473-advanced-embedded-systems-group-d/)
 <br>
 [<i>MiniTrace Presentation</i>](/pdf/Presentation_MiniTrace.pdf)
