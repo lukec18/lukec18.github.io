@@ -13,7 +13,7 @@
 
 ---
 [<b>Human Mirroring Robotic Arm</b>](http://example.com/)
-<img src="images/HumanMirroringRoboticArm/HCInteraction.JPG?raw=true"/>
+<img src="images/HumanMirroringRoboticArm/HCInteraction.JPG?raw=true style="width:500px;height:600px;"/>
 <br>
 [<i>EMG Presentation</i>](/pdf/Presentation_HumanMirroringRoboticArm.pdf)
 <br>
