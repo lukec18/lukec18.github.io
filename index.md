@@ -15,9 +15,9 @@
 [<b>Human Mirroring Robotic Arm</b>](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <br>
-[EMG Presentation](/pdf/Presentation_HumanMirroringRoboticArm.pdf)
+[<i>EMG Presentation</i>](/pdf/Presentation_HumanMirroringRoboticArm.pdf)
 <br>
-[Project Final Poster](/pdf/Poster_HumanMirroringRoboticArm.pdf)
+[<i>Project Final Poster</i>](/pdf/Poster_HumanMirroringRoboticArm.pdf)
 
 ---
 [Dolphin Enrichment System](http://example.com/)
