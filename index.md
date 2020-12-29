@@ -33,7 +33,6 @@
 
 ---
 <b>Dolphin Enrichment System</b>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -41,12 +40,19 @@
 
 <b>ChessBot: A Simulated Robotic Chess Engine</b>
 <br>
+https://www.youtube.com/watch?v=A8CCiv3MewY&list=PLDutmfAv2lfY7py6oNaELgMsXUsx14CpU&index=9&t=107s
+<br>
+[<i>Chessbot Preliminary Presentation</i>](/pdf/Report_SLAM_MotionControl.pdf)
+<br>
+[<i>Chessbot Final Report</i>](/pdf/Report_SLAM_MotionControl.pdf)
+<br>
 
 ---
 <b>Real Time 2D Simultaneous Localization and Mapping</b>
 <br>
-
-[<i>SLAM Final Report</i>](https://gitlab.eecs.umich.edu/lukecohe/botlab_escape_challenge/-/wikis/Escape-Challenge-Wiki)
+[<i>Motion Control Report</i>](/pdf/Report_SLAM_MotionControl.pdf)
+<br>
+[<i>SLAM Report</i>](https://gitlab.eecs.umich.edu/lukecohe/botlab_escape_challenge/-/wikis/Escape-Challenge-Wiki)
 
 ---
 <b>Simulated Extended Kalman Filter SLAM</b>
