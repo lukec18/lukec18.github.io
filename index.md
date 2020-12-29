@@ -40,7 +40,9 @@
 
 <b>ChessBot: A Simulated Robotic Chess Engine</b>
 <br>
-https://www.youtube.com/watch?v=A8CCiv3MewY&list=PLDutmfAv2lfY7py6oNaELgMsXUsx14CpU&index=9&t=107s
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=A8CCiv3MewY&list=PLDutmfAv2lfY7py6oNaELgMsXUsx14CpU&index=9&t=107s">
+</iframe>
 <br>
 [<i>Chessbot Preliminary Presentation</i>](/pdf/Report_SLAM_MotionControl.pdf)
 <br>
