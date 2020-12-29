@@ -14,7 +14,7 @@
 [<i>MiniTrace Final Report</i>](/pdf/Report_MiniTrace.pdf)
 
 ---
-[<b>Inductive Charging for Medication Adherence Tracking System</b>]
+<b>Inductive Charging for Medication Adherence Tracking System</b>
 <br>
 <img src="images/EyeDropper/EyeDropperBottle.jpg?raw=true" style="width:500px;height:600px;">
 <br>
@@ -23,7 +23,7 @@
 [<i>EyeDropper Final Report</i>](/pdf/Report_EyeDropper.pdf)
 
 ---
-[<b>Human Mirroring Robotic Arm</b>]
+<b>Human Mirroring Robotic Arm</b>
 <br>
 <img src="images/HumanMirroringRoboticArm/HCInteraction.JPG?raw=true" style="width:500px;height:600px;">
 <br>
@@ -32,7 +32,7 @@
 [<i>Project Final Poster</i>](/pdf/Poster_HumanMirroringRoboticArm.pdf)
 
 ---
-[<b>Dolphin Enrichment System</b>]
+<b>Dolphin Enrichment System</b>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -40,10 +40,24 @@
 ### Robotics and Simulation
 
 <b>ChessBot: A Simulated Robotic Chess Engine</b>
-<b>Real Time 2D Simultaneous Localization and Mapping</b>
-<b>Simulated Extended Kalman Filter SLAM</b>
+<br>
 
 ---
+<b>Real Time 2D Simultaneous Localization and Mapping</b>
+<br>
+
+[<i>SLAM Final Report</i>](https://gitlab.eecs.umich.edu/lukecohe/botlab_escape_challenge/-/wikis/Escape-Challenge-Wiki)
+
+---
+<b>Simulated Extended Kalman Filter SLAM</b>
+<br>
+
+---
+<b>RANSAC Image Stitching</b>
+<br>
+
+---
+
 
 
 
